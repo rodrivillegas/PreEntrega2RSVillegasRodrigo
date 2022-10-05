@@ -1,0 +1,49 @@
+[{
+    "name": "Coca-Cola",
+    "description": "Vivi feliz",
+    "price": 50,
+    "size": "500 ml",
+    "img": "./imagenes/cola.png",
+    "categoria" : "gaseosas"
+}, 
+{
+    "name": "Quilmes",
+    "description": "El sabor del encuentro",
+    "price": 150,
+    "size": "750 ml",
+    "img": "./imagenes/cerveza.png",
+    "categoria" : "cerveza"
+},
+{
+    "name": "Smirnoff",
+    "description": "Tu vodka está acá",
+    "price": 180,
+    "size": "500 ml",
+    "img": "./imagenes/vodka.png",
+    "categoria" : "destilados"
+},
+{
+    "name": "Fernet Branca",
+    "description": "Los momentos especiales son con fernet",
+    "price": 120,
+    "size": "300 ml",
+    "img": "./imagenes/fernet.png",
+    "categoria" : "destilados"
+},
+{
+    "name": "Villvicencio",
+    "description": "El agua más natural",
+    "price": 130,
+    "size": "450 ml",
+    "img": "./imagenes/agua.png",
+    "categoria" : "agua"
+},
+{
+    "name": "Sprite",
+    "description": "Vivi con Sprite. Viví feliz",
+    "price": 120,
+    "size": "750 ml",
+    "img": "./imagenes/refresco.png",
+    "categoria" : "gaseosas"
+}
+]
